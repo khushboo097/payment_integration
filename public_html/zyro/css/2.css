@@ -1,0 +1,56 @@
+
+#wb_header { height: 130px; }
+#wb_header > .wb_cont_bg { background: transparent none repeat scroll left top; }
+#wb_main { height: 1426px; padding-bottom: 50px; }
+#wb_main > .wb_cont_bg { background: transparent none repeat scroll left top; }
+#wb_footer { height: 100px; }
+#wb_footer > .wb_cont_bg { background: #90cc86 none repeat scroll left top; }
+body { background: transparent url("../gallery_gen/f093b76a72aa04cdb1719530f5027900.jpg") repeat-x scroll center top; }
+.wb_sbg { background: transparent url("../gallery_gen/084b4e5863e19563c8ebafd4acc06f9c.jpg") repeat-x scroll center top; }
+body, .wb_sbg { min-width: 1200px; min-height: 1656px; }
+.wb_cont_inner { width: 1200px; }
+.wb_cont_bg { width: 1200px; margin-left: -600px; }
+.root { height: 1656px; overflow: visible; min-height: 1656px; }
+#wb_element_instance15 { top: 38px; left: 600px; min-width: 562px; width: 562px; min-height: 54px; height: 54px; display: block; z-index: 513; }
+#wb_element_instance15 > ul { display: block; }
+#wb_element_instance15 ul { background: transparent none repeat-x scroll left top; border: 1px none #000000; }
+#wb_element_instance15, #wb_element_instance15 ul { text-align: right; }
+#wb_element_instance15 ul ul { background: transparent none repeat-x scroll left top; }
+#wb_element_instance15 li { margin: 0px 0px 0px 0px; }
+#wb_element_instance15 li a { text-transform: none; border: 0px none #000000; padding: 16px 40px 16px 20px; font: normal normal 20px 'Open Sans',sans-serif; text-decoration: none; color: #424242; line-height: 22px; background: transparent none repeat scroll left top; }
+#wb_element_instance15 li.over > a, #wb_element_instance15 li:focus > a { border: 0px none #000000; font: normal normal 20px 'Open Sans',sans-serif; text-decoration: none; color: #000000; line-height: 22px; background: transparent url('../gallery/planet-earth%20%282%29-ts1464005846.png') no-repeat scroll left center; }
+#wb_element_instance15 li.active > a { border: 0px none #000000; font: normal normal 20px 'Open Sans',sans-serif; text-decoration: none; color: #424242; line-height: 22px; background: transparent url('../gallery/planet-earth%20%282%29-ts1464005846.png') no-repeat scroll left center; }
+#wb_element_instance15:not(.collapse-expanded) .vmenu ul.open-left,#wb_element_instance15:not(.collapse-expanded) .hmenu ul.open-left { left: auto; right: 100%; }
+#wb_element_instance15:not(.collapse-expanded) .hmenu > li > ul.open-left { left: auto; right: 0; }
+#wb_element_instance16 { top: 28px; left: 130px; min-width: 350px; width: 350px; min-height: 75px; height: 75px; display: block; z-index: 312; }
+#wb_element_instance17 { top: 0px; left: 0px; min-width: 128px; width: 128px; min-height: 128px; height: 128px; display: block; z-index: 302; }
+#wb_element_instance17 img { width: 128px; height: 128px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance18 { top: 520px; left: 0px; min-width: 1200px; width: 1200px; min-height: 640px; height: 640px; display: block; z-index: 135; }
+#wb_element_instance18 > .wb_shp { background: #ffffff none repeat scroll left top; background-size: auto auto; border: 0px solid #C0C0C0; opacity: 1; border-radius: 0px 0px 0px 0px; -moz-border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px; width: 1200px; height: 640px; }
+#wb_element_instance19 { top: 500px; left: 0px; min-width: 1200px; width: 1200px; min-height: 30px; height: 30px; display: block; z-index: 246; }
+#wb_element_instance20 { top: 40px; left: 30px; min-width: 247px; width: 247px; min-height: 24px; height: 24px; display: block; z-index: 238; }
+#wb_element_instance21 { top: 90px; left: 440px; min-width: 320px; width: 320px; min-height: 320px; height: 320px; display: block; z-index: 208; }
+#wb_element_instance21 img { width: 320px; height: 320px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance22 { top: 80px; left: 430px; min-width: 340px; width: 340px; min-height: 340px; height: 340px; display: block; z-index: 133; }
+#wb_element_instance22 > .wb_shp { background: #009687; border: 0px solid #C0C0C0; opacity: 0.95; border-radius: 200px 200px 200px 200px; -moz-border-radius: 200px 200px 200px 200px; -webkit-border-radius: 200px 200px 200px 200px; width: 340px; height: 340px; }
+#wb_element_instance23 { top: 70px; left: 420px; min-width: 360px; width: 360px; min-height: 360px; height: 360px; display: block; z-index: 134; }
+#wb_element_instance23 > .wb_shp { background: #36baad; border: 0px solid #C0C0C0; opacity: 0.95; border-radius: 200px 200px 200px 200px; -moz-border-radius: 200px 200px 200px 200px; -webkit-border-radius: 200px 200px 200px 200px; width: 360px; height: 360px; }
+#wb_element_instance24 { top: 520px; left: 30px; min-width: 1140px; width: 1140px; min-height: 856px; height: 856px; display: block; z-index: 135; }
+#wb_element_instance25 { top: 1424px; left: 0px; display: block; z-index: 9000; }
+#wb_element_instance26 { top: 84px; left: 0px; display: block; z-index: 9999; }
+
+
+#wb_element_instance16 p:last-child { margin-bottom: 0; }
+#wb_element_instance19 > .wb-elm-line { margin: 1px 0 0 0; width: 100%; height: 1px; left: 0; top: 50%; border-top: 10px solid #009687;; }
+#wb_element_instance20 p:last-child { margin-bottom: 0; }
+#wb_element_instance24 p:last-child { margin-bottom: 0; }
+
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+}
+
+@media (max-width: 767px) {
+}

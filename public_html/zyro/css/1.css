@@ -1,0 +1,67 @@
+
+#wb_header { height: 130px; }
+#wb_header > .wb_cont_bg { background: transparent none repeat scroll left top; }
+#wb_main { height: 1500px; padding-bottom: 70px; }
+#wb_main > .wb_cont_bg { background: transparent none repeat-x scroll left top; }
+#wb_footer { height: 100px; }
+#wb_footer > .wb_cont_bg { background: #90cc86 none repeat-x scroll left top; }
+body { background: transparent url("../gallery_gen/7afcdce2a48acbc20098e29074d8b3ba.jpg") repeat-x scroll center top; }
+.wb_sbg { background: transparent url("../gallery_gen/084b4e5863e19563c8ebafd4acc06f9c.jpg") repeat-x scroll center top; }
+body, .wb_sbg { min-width: 1200px; min-height: 1730px; }
+.wb_cont_inner { width: 1200px; }
+.wb_cont_bg { width: 1200px; margin-left: -600px; }
+.root { height: 1660px; overflow: visible; min-height: 1730px; }
+#wb_element_instance0 { top: 38px; left: 600px; min-width: 562px; width: 562px; min-height: 54px; height: 54px; display: block; z-index: 513; }
+#wb_element_instance0 > ul { display: block; }
+#wb_element_instance0 ul { background: transparent none repeat-x scroll left top; border: 1px none #000000; }
+#wb_element_instance0, #wb_element_instance0 ul { text-align: right; }
+#wb_element_instance0 ul ul { background: transparent none repeat-x scroll left top; }
+#wb_element_instance0 li { margin: 0px 0px 0px 0px; }
+#wb_element_instance0 li a { text-transform: none; border: 0px none #000000; padding: 16px 40px 16px 20px; font: normal normal 20px 'Open Sans',sans-serif; text-decoration: none; color: #424242; line-height: 22px; background: transparent none repeat scroll left top; }
+#wb_element_instance0 li.over > a, #wb_element_instance0 li:focus > a { border: 0px none #000000; font: normal normal 20px 'Open Sans',sans-serif; text-decoration: none; color: #000000; line-height: 22px; background: transparent url('../gallery/planet-earth%20%282%29-ts1464005846.png') no-repeat scroll left center; }
+#wb_element_instance0 li.active > a { border: 0px none #000000; font: normal normal 20px 'Open Sans',sans-serif; text-decoration: none; color: #424242; line-height: 22px; background: transparent url('../gallery/planet-earth%20%282%29-ts1464005846.png') no-repeat scroll left center; }
+#wb_element_instance0:not(.collapse-expanded) .vmenu ul.open-left,#wb_element_instance0:not(.collapse-expanded) .hmenu ul.open-left { left: auto; right: 100%; }
+#wb_element_instance0:not(.collapse-expanded) .hmenu > li > ul.open-left { left: auto; right: 0; }
+#wb_element_instance1 { top: 28px; left: 130px; min-width: 350px; width: 350px; min-height: 75px; height: 75px; display: block; z-index: 312; }
+#wb_element_instance2 { top: 0px; left: 0px; min-width: 128px; width: 128px; min-height: 128px; height: 128px; display: block; z-index: 302; }
+#wb_element_instance2 img { width: 128px; height: 128px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance3 { top: 520px; left: 0px; min-width: 1200px; width: 1200px; min-height: 640px; height: 640px; display: block; z-index: 135; }
+#wb_element_instance3 > .wb_shp { background: #ffffff none repeat scroll left top; background-size: auto auto; border: 0px solid #C0C0C0; opacity: 1; border-radius: 0px 0px 0px 0px; -moz-border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px; width: 1200px; height: 640px; }
+#wb_element_instance4 { top: 500px; left: 0px; min-width: 1200px; width: 1200px; min-height: 30px; height: 30px; display: block; z-index: 246; }
+#wb_element_instance5 { top: 40px; left: 30px; min-width: 247px; width: 247px; min-height: 24px; height: 24px; display: block; z-index: 238; }
+#wb_element_instance6 { top: 40px; left: 200px; min-width: 810px; width: 810px; min-height: 360px; height: 360px; display: block; z-index: 217; }
+#wb_element_instance7 { top: 420px; left: 510px; min-width: 170px; width: 170px; min-height: 60px; height: 60px; display: block; z-index: 218; }
+#wb_element_instance7 .wb_button { width: 170px; height: 60px; font-family: 'Open Sans',Arial,sans-serif; font-size: 18px; text-align: center; border: 5px solid #009687; -moz-border-radius: 0px; -webkit-border-radius: 0px; border-radius: 0px; background: transparent none repeat left top; }
+#wb_element_instance7 .wb_button > span { color: #009687; font-style: normal; font-weight: bold; text-decoration: none; }
+#wb_element_instance7 .wb_button:hover > span { color: #ffffff; font-style: normal; font-weight: bold; text-decoration: none; }
+#wb_element_instance7 .wb_button:hover { background: #009687 none repeat left top; }
+#wb_element_instance7 .wb_button:active > span { color: #333333; font-style: normal; font-weight: bold; text-decoration: none; }
+#wb_element_instance7 .wb_button:active { background: #e6e6e6 none repeat left top; }
+#wb_element_instance8 { top: 550px; left: 30px; min-width: 820px; width: 820px; min-height: 83px; height: 83px; display: block; z-index: 220; }
+#wb_element_instance9 { top: 630px; left: 900px; min-width: 240px; width: 240px; min-height: 300px; height: 300px; display: block; z-index: 277; overflow: hidden; }
+#wb_element_instance9 img { width: 330px; height: 330px; display: block; position: relative; left: -60px; top: -20px; max-width: inherit; }
+#wb_element_instance10 { top: 1010px; left: 30px; min-width: 1140px; width: 1140px; min-height: 83px; height: 83px; display: block; z-index: 222; }
+#wb_element_instance11 { top: 1100px; left: 30px; min-width: 1140px; width: 1140px; min-height: 260px; height: 260px; display: block; z-index: 216; }
+#wb_element_instance12 { top: 640px; left: 30px; min-width: 820px; width: 820px; min-height: 338px; height: 338px; display: block; z-index: 224; }
+#wb_element_instance13 { top: 1380px; left: 0px; display: block; z-index: 9000; }
+#wb_element_instance14 { top: 84px; left: 0px; display: block; z-index: 9999; }
+
+
+#wb_element_instance1 p:last-child { margin-bottom: 0; }
+#wb_element_instance4 > .wb-elm-line { margin: 1px 0 0 0; width: 100%; height: 1px; left: 0; top: 50%; border-top: 10px solid #009687;; }
+#wb_element_instance5 p:last-child { margin-bottom: 0; }
+#wb_element_instance6 p:last-child { margin-bottom: 0; }
+#wb_element_instance8 p:last-child { margin-bottom: 0; }
+#wb_element_instance10 p:last-child { margin-bottom: 0; }
+#wb_element_instance11 p:last-child { margin-bottom: 0; }
+#wb_element_instance12 p:last-child { margin-bottom: 0; }
+
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+}
+
+@media (max-width: 767px) {
+}
